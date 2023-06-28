@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: GizmoMaterial
+  m_Name: GizmoMaterial 1
   m_Shader: {fileID: -6465566751694194690, guid: 613afb02d4203fb438a3bc3a3c576b13,
     type: 3}
   m_ValidKeywords: []
@@ -103,7 +103,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _EnvironmentReflections: 1
-    - _FresnelPower: 3.3
+    - _FresnelPower: 0.4
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
